@@ -183,6 +183,32 @@ The dashboard offers:
 
 ---
 
+## 📸 Project Screenshots
+
+The screenshots below document the workspace, sample data, execution, tests, dashboard, and generated report.
+
+| Project structure | Raw expense data |
+|---|---|
+| <img src="screenshots/01_project_structure.png" alt="Project structure in VS Code" width="480"> | <img src="screenshots/02_expense_dataset.png" alt="Synthetic raw expense data" width="480"> |
+
+| Pipeline output | Test results |
+|---|---|
+| <img src="screenshots/03_pipeline_output.png" alt="Completed expense analysis pipeline" width="480"> | <img src="screenshots/04_test_results.png" alt="Pytest results" width="480"> |
+
+| Dashboard overview | Category and monthly charts |
+|---|---|
+| <img src="screenshots/05_dashboard_overview.png" alt="Streamlit dashboard overview" width="480"> | <img src="screenshots/06_category_monthly_charts.png" alt="Category spending and monthly trend charts" width="480"> |
+
+| Payment and daily charts | Budget health |
+|---|---|
+| <img src="screenshots/07_daily_payment_charts.png" alt="Payment method and daily spending charts" width="480"> | <img src="screenshots/08_budget_health.png" alt="Budget status and category comparison table" width="480"> |
+
+| Generated expense report |
+|---|
+| <img src="screenshots/09_expense_report.png" alt="Generated expense summary report" width="720"> |
+
+---
+
 ## 🧪 Testing
 
 Run the test suite with:
