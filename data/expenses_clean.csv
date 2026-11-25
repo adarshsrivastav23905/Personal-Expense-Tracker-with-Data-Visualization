@@ -1,0 +1,319 @@
+date,category,amount,payment_method,note,month,weekday
+2026-01-01,Rent,6500.0,UPI,Hostel rent,2026-01,Thursday
+2026-01-01,Entertainment,240.0,UPI,BookMyShow,2026-01,Thursday
+2026-01-01,Transport,285.0,Cash,Petrol,2026-01,Thursday
+2026-01-03,Food & Dining,250.0,Credit Card,Cafe coffee,2026-01,Saturday
+2026-01-04,Food & Dining,350.0,Cash,Cafe coffee,2026-01,Sunday
+2026-01-05,Transport,295.0,UPI,Bus pass,2026-01,Monday
+2026-01-05,Groceries,775.0,Debit Card,Vegetables,2026-01,Monday
+2026-01-05,Food & Dining,320.0,Credit Card,Restaurant lunch,2026-01,Monday
+2026-01-07,Entertainment,210.0,UPI,BookMyShow,2026-01,Wednesday
+2026-01-09,Transport,105.0,Cash,Petrol,2026-01,Friday
+2026-01-10,Transport,275.0,Cash,Metro card,2026-01,Saturday
+2026-01-11,Education,175.0,UPI,Udemy course,2026-01,Sunday
+2026-01-12,Food & Dining,140.0,Credit Card,Restaurant lunch,2026-01,Monday
+2026-01-13,Health,435.0,Cash,Pharmacy,2026-01,Tuesday
+2026-01-14,Bills & Utilities,515.0,UPI,WiFi bill,2026-01,Wednesday
+2026-01-14,Shopping,1570.0,Net Banking,Flipkart sale,2026-01,Wednesday
+2026-01-14,Food & Dining,225.0,UPI,Swiggy order,2026-01,Wednesday
+2026-01-15,Food & Dining,240.0,UPI,Cafe coffee,2026-01,Thursday
+2026-01-16,Bills & Utilities,580.0,Net Banking,WiFi bill,2026-01,Friday
+2026-01-18,Transport,40.0,UPI,Ola cab,2026-01,Sunday
+2026-01-18,Food & Dining,365.0,UPI,Restaurant lunch,2026-01,Sunday
+2026-01-18,Groceries,655.0,Debit Card,Big Bazaar,2026-01,Sunday
+2026-01-20,Entertainment,325.0,Credit Card,Netflix,2026-01,Tuesday
+2026-01-20,Food & Dining,210.0,Credit Card,Cafe coffee,2026-01,Tuesday
+2026-01-21,Transport,180.0,Cash,Ola cab,2026-01,Wednesday
+2026-01-24,Food & Dining,290.0,Cash,Zomato dinner,2026-01,Saturday
+2026-01-24,Food & Dining,305.0,Cash,Swiggy order,2026-01,Saturday
+2026-01-24,Food & Dining,310.0,Credit Card,Cafe coffee,2026-01,Saturday
+2026-01-24,Food & Dining,195.0,Credit Card,Zomato dinner,2026-01,Saturday
+2026-01-25,Transport,300.0,UPI,Bus pass,2026-01,Sunday
+2026-01-25,Groceries,290.0,UPI,D-Mart groceries,2026-01,Sunday
+2026-01-25,Food & Dining,325.0,UPI,Zomato dinner,2026-01,Sunday
+2026-01-25,Transport,210.0,UPI,Metro card,2026-01,Sunday
+2026-01-26,Food & Dining,170.0,Cash,Swiggy order,2026-01,Monday
+2026-01-27,Bills & Utilities,305.0,Net Banking,Mobile recharge,2026-01,Tuesday
+2026-01-27,Entertainment,110.0,UPI,BookMyShow,2026-01,Tuesday
+2026-01-27,Shopping,1375.0,Credit Card,Myntra clothes,2026-01,Tuesday
+2026-01-27,Food & Dining,105.0,Credit Card,Swiggy order,2026-01,Tuesday
+2026-01-29,Groceries,430.0,UPI,Big Bazaar,2026-01,Thursday
+2026-01-31,Food & Dining,225.0,Credit Card,Cafe coffee,2026-01,Saturday
+2026-02-01,Rent,6500.0,UPI,Hostel rent,2026-02,Sunday
+2026-02-01,Education,960.0,UPI,Stationery,2026-02,Sunday
+2026-02-01,Transport,145.0,Cash,Uber ride,2026-02,Sunday
+2026-02-02,Food & Dining,135.0,Cash,Swiggy order,2026-02,Monday
+2026-02-03,Food & Dining,135.0,Cash,Restaurant lunch,2026-02,Tuesday
+2026-02-03,Food & Dining,225.0,Credit Card,Swiggy order,2026-02,Tuesday
+2026-02-03,Transport,120.0,UPI,Petrol,2026-02,Tuesday
+2026-02-03,Food & Dining,325.0,Cash,Restaurant lunch,2026-02,Tuesday
+2026-02-04,Food & Dining,190.0,Credit Card,Zomato dinner,2026-02,Wednesday
+2026-02-04,Shopping,835.0,Credit Card,Flipkart sale,2026-02,Wednesday
+2026-02-04,Education,695.0,UPI,Udemy course,2026-02,Wednesday
+2026-02-05,Food & Dining,240.0,Credit Card,Zomato dinner,2026-02,Thursday
+2026-02-05,Food & Dining,370.0,Cash,Restaurant lunch,2026-02,Thursday
+2026-02-05,Food & Dining,230.0,Credit Card,Swiggy order,2026-02,Thursday
+2026-02-08,Transport,335.0,UPI,Metro card,2026-02,Sunday
+2026-02-08,Food & Dining,325.0,Credit Card,Zomato dinner,2026-02,Sunday
+2026-02-09,Food & Dining,340.0,Cash,Cafe coffee,2026-02,Monday
+2026-02-09,Entertainment,180.0,Credit Card,Cinema ticket,2026-02,Monday
+2026-02-09,Food & Dining,300.0,Cash,Cafe coffee,2026-02,Monday
+2026-02-09,Groceries,165.0,UPI,Supermart,2026-02,Monday
+2026-02-09,Shopping,505.0,Net Banking,Myntra clothes,2026-02,Monday
+2026-02-09,Groceries,845.0,Debit Card,Vegetables,2026-02,Monday
+2026-02-10,Food & Dining,290.0,UPI,Cafe coffee,2026-02,Tuesday
+2026-02-12,Groceries,510.0,UPI,Supermart,2026-02,Thursday
+2026-02-12,Education,540.0,Credit Card,Udemy course,2026-02,Thursday
+2026-02-13,Food & Dining,315.0,UPI,Swiggy order,2026-02,Friday
+2026-02-13,Food & Dining,180.0,Cash,Swiggy order,2026-02,Friday
+2026-02-13,Food & Dining,135.0,Cash,Swiggy order,2026-02,Friday
+2026-02-13,Food & Dining,305.0,UPI,Cafe coffee,2026-02,Friday
+2026-02-13,Groceries,410.0,Debit Card,Vegetables,2026-02,Friday
+2026-02-14,Transport,170.0,Cash,Uber ride,2026-02,Saturday
+2026-02-15,Transport,300.0,UPI,Ola cab,2026-02,Sunday
+2026-02-15,Bills & Utilities,175.0,UPI,No description,2026-02,Sunday
+2026-02-16,Transport,130.0,UPI,Petrol,2026-02,Monday
+2026-02-16,Entertainment,320.0,UPI,Spotify,2026-02,Monday
+2026-02-17,Transport,205.0,UPI,Bus pass,2026-02,Tuesday
+2026-02-17,Food & Dining,110.0,Cash,Cafe coffee,2026-02,Tuesday
+2026-02-18,Bills & Utilities,435.0,Net Banking,Mobile recharge,2026-02,Wednesday
+2026-02-21,Shopping,1680.0,UPI,Myntra clothes,2026-02,Saturday
+2026-02-21,Health,775.0,Cash,Pharmacy,2026-02,Saturday
+2026-02-21,Food & Dining,305.0,Cash,Cafe coffee,2026-02,Saturday
+2026-02-22,Food & Dining,165.0,Credit Card,Restaurant lunch,2026-02,Sunday
+2026-02-22,Food & Dining,240.0,Credit Card,Cafe coffee,2026-02,Sunday
+2026-02-24,Entertainment,285.0,Credit Card,BookMyShow,2026-02,Tuesday
+2026-02-26,Transport,205.0,UPI,Ola cab,2026-02,Thursday
+2026-02-26,Food & Dining,240.0,Credit Card,Zomato dinner,2026-02,Thursday
+2026-02-28,Shopping,735.0,Credit Card,Amazon order,2026-02,Saturday
+2026-02-28,Health,220.0,Cash,Pharmacy,2026-02,Saturday
+2026-02-28,Bills & Utilities,665.0,UPI,Mobile recharge,2026-02,Saturday
+2026-03-01,Food & Dining,270.0,Cash,Swiggy order,2026-03,Sunday
+2026-03-01,Rent,6500.0,UPI,Hostel rent,2026-03,Sunday
+2026-03-01,Food & Dining,135.0,UPI,Zomato dinner,2026-03,Sunday
+2026-03-01,Bills & Utilities,355.0,Net Banking,WiFi bill,2026-03,Sunday
+2026-03-02,Entertainment,295.0,UPI,BookMyShow,2026-03,Monday
+2026-03-02,Entertainment,270.0,Credit Card,Cinema ticket,2026-03,Monday
+2026-03-04,Health,770.0,Cash,Gym fee,2026-03,Wednesday
+2026-03-04,Food & Dining,100.0,Credit Card,Restaurant lunch,2026-03,Wednesday
+2026-03-04,Bills & Utilities,180.0,UPI,Electricity bill,2026-03,Wednesday
+2026-03-04,Food & Dining,175.0,Cash,Restaurant lunch,2026-03,Wednesday
+2026-03-04,Transport,315.0,UPI,Metro card,2026-03,Wednesday
+2026-03-05,Food & Dining,320.0,Cash,Swiggy order,2026-03,Thursday
+2026-03-05,Transport,325.0,Cash,Metro card,2026-03,Thursday
+2026-03-05,Food & Dining,220.0,UPI,No description,2026-03,Thursday
+2026-03-05,Food & Dining,320.0,UPI,Zomato dinner,2026-03,Thursday
+2026-03-05,Food & Dining,85.0,Credit Card,Restaurant lunch,2026-03,Thursday
+2026-03-06,Transport,80.0,UPI,Metro card,2026-03,Friday
+2026-03-06,Groceries,595.0,UPI,Supermart,2026-03,Friday
+2026-03-07,Food & Dining,355.0,Credit Card,Swiggy order,2026-03,Saturday
+2026-03-07,Food & Dining,170.0,UPI,Restaurant lunch,2026-03,Saturday
+2026-03-08,Groceries,750.0,UPI,D-Mart groceries,2026-03,Sunday
+2026-03-08,Transport,115.0,UPI,Bus pass,2026-03,Sunday
+2026-03-09,Food & Dining,390.0,Credit Card,Zomato dinner,2026-03,Monday
+2026-03-10,Food & Dining,120.0,Cash,Cafe coffee,2026-03,Tuesday
+2026-03-11,Groceries,550.0,Debit Card,Vegetables,2026-03,Wednesday
+2026-03-13,Transport,70.0,UPI,Bus pass,2026-03,Friday
+2026-03-14,Transport,65.0,Cash,Bus pass,2026-03,Saturday
+2026-03-15,Shopping,520.0,Net Banking,Amazon order,2026-03,Sunday
+2026-03-16,Food & Dining,220.0,UPI,Restaurant lunch,2026-03,Monday
+2026-03-18,Education,970.0,Credit Card,No description,2026-03,Wednesday
+2026-03-19,Food & Dining,310.0,Credit Card,Swiggy order,2026-03,Thursday
+2026-03-19,Transport,145.0,UPI,Uber ride,2026-03,Thursday
+2026-03-20,Education,970.0,Credit Card,Udemy course,2026-03,Friday
+2026-03-20,Groceries,740.0,Debit Card,D-Mart groceries,2026-03,Friday
+2026-03-20,Food & Dining,350.0,UPI,Cafe coffee,2026-03,Friday
+2026-03-21,Food & Dining,180.0,Credit Card,Cafe coffee,2026-03,Saturday
+2026-03-21,Groceries,230.0,UPI,Supermart,2026-03,Saturday
+2026-03-22,Entertainment,420.0,UPI,BookMyShow,2026-03,Sunday
+2026-03-22,Shopping,405.0,Credit Card,Amazon order,2026-03,Sunday
+2026-03-22,Food & Dining,325.0,Cash,Zomato dinner,2026-03,Sunday
+2026-03-23,Food & Dining,105.0,Credit Card,Restaurant lunch,2026-03,Monday
+2026-03-23,Groceries,755.0,UPI,Big Bazaar,2026-03,Monday
+2026-03-24,Food & Dining,200.0,UPI,Swiggy order,2026-03,Tuesday
+2026-03-24,Transport,300.0,Cash,Bus pass,2026-03,Tuesday
+2026-03-25,Food & Dining,180.0,Credit Card,Zomato dinner,2026-03,Wednesday
+2026-03-26,Transport,130.0,UPI,Bus pass,2026-03,Thursday
+2026-03-26,Education,715.0,UPI,Stationery,2026-03,Thursday
+2026-03-27,Transport,115.0,UPI,Metro card,2026-03,Friday
+2026-03-28,Bills & Utilities,205.0,UPI,Electricity bill,2026-03,Saturday
+2026-03-28,Health,290.0,Cash,Pharmacy,2026-03,Saturday
+2026-03-28,Entertainment,415.0,Credit Card,Cinema ticket,2026-03,Saturday
+2026-03-29,Food & Dining,105.0,Cash,Restaurant lunch,2026-03,Sunday
+2026-03-29,Groceries,800.0,Debit Card,Vegetables,2026-03,Sunday
+2026-03-30,Bills & Utilities,380.0,UPI,Mobile recharge,2026-03,Monday
+2026-03-30,Food & Dining,385.0,UPI,Swiggy order,2026-03,Monday
+2026-04-01,Education,155.0,UPI,Udemy course,2026-04,Wednesday
+2026-04-01,Rent,6500.0,UPI,Hostel rent,2026-04,Wednesday
+2026-04-01,Groceries,580.0,UPI,Big Bazaar,2026-04,Wednesday
+2026-04-03,Food & Dining,280.0,Credit Card,Cafe coffee,2026-04,Friday
+2026-04-03,Food & Dining,245.0,Credit Card,Cafe coffee,2026-04,Friday
+2026-04-04,Food & Dining,385.0,Cash,Cafe coffee,2026-04,Saturday
+2026-04-05,Food & Dining,390.0,Credit Card,Swiggy order,2026-04,Sunday
+2026-04-05,Transport,55.0,Cash,Metro card,2026-04,Sunday
+2026-04-05,Bills & Utilities,510.0,Net Banking,Mobile recharge,2026-04,Sunday
+2026-04-07,Food & Dining,190.0,Cash,Cafe coffee,2026-04,Tuesday
+2026-04-08,Groceries,600.0,UPI,Supermart,2026-04,Wednesday
+2026-04-08,Food & Dining,100.0,UPI,Zomato dinner,2026-04,Wednesday
+2026-04-08,Health,465.0,UPI,Gym fee,2026-04,Wednesday
+2026-04-09,Transport,285.0,UPI,Metro card,2026-04,Thursday
+2026-04-09,Food & Dining,335.0,Credit Card,Cafe coffee,2026-04,Thursday
+2026-04-09,Education,840.0,Credit Card,Udemy course,2026-04,Thursday
+2026-04-10,Transport,130.0,UPI,Bus pass,2026-04,Friday
+2026-04-10,Entertainment,305.0,Credit Card,Cinema ticket,2026-04,Friday
+2026-04-10,Food & Dining,225.0,Cash,Restaurant lunch,2026-04,Friday
+2026-04-11,Food & Dining,315.0,UPI,Zomato dinner,2026-04,Saturday
+2026-04-12,Food & Dining,300.0,Cash,Swiggy order,2026-04,Sunday
+2026-04-12,Food & Dining,140.0,Credit Card,Swiggy order,2026-04,Sunday
+2026-04-13,Transport,325.0,Cash,Ola cab,2026-04,Monday
+2026-04-14,Transport,265.0,UPI,Uber ride,2026-04,Tuesday
+2026-04-14,Entertainment,225.0,UPI,Netflix,2026-04,Tuesday
+2026-04-15,Transport,75.0,UPI,Petrol,2026-04,Wednesday
+2026-04-15,Shopping,1420.0,Credit Card,Myntra clothes,2026-04,Wednesday
+2026-04-15,Food & Dining,135.0,Cash,Cafe coffee,2026-04,Wednesday
+2026-04-17,Shopping,325.0,Credit Card,Flipkart sale,2026-04,Friday
+2026-04-18,Food & Dining,95.0,UPI,Cafe coffee,2026-04,Saturday
+2026-04-19,Food & Dining,105.0,UPI,Swiggy order,2026-04,Sunday
+2026-04-19,Food & Dining,135.0,UPI,No description,2026-04,Sunday
+2026-04-20,Bills & Utilities,700.0,UPI,WiFi bill,2026-04,Monday
+2026-04-21,Transport,265.0,UPI,Petrol,2026-04,Tuesday
+2026-04-21,Food & Dining,240.0,Credit Card,Restaurant lunch,2026-04,Tuesday
+2026-04-21,Groceries,540.0,Debit Card,Supermart,2026-04,Tuesday
+2026-04-22,Groceries,215.0,UPI,Vegetables,2026-04,Wednesday
+2026-04-22,Transport,85.0,Cash,Bus pass,2026-04,Wednesday
+2026-04-23,Food & Dining,90.0,UPI,Cafe coffee,2026-04,Thursday
+2026-04-24,Entertainment,320.0,UPI,Spotify,2026-04,Friday
+2026-04-24,Food & Dining,400.0,Credit Card,Restaurant lunch,2026-04,Friday
+2026-04-24,Bills & Utilities,610.0,UPI,Mobile recharge,2026-04,Friday
+2026-04-25,Food & Dining,210.0,Cash,Zomato dinner,2026-04,Saturday
+2026-04-25,Food & Dining,255.0,Cash,Restaurant lunch,2026-04,Saturday
+2026-04-25,Education,360.0,UPI,Book purchase,2026-04,Saturday
+2026-04-25,Entertainment,270.0,UPI,BookMyShow,2026-04,Saturday
+2026-04-26,Food & Dining,235.0,Cash,Swiggy order,2026-04,Sunday
+2026-04-26,Transport,310.0,Cash,Uber ride,2026-04,Sunday
+2026-04-26,Food & Dining,345.0,Cash,Restaurant lunch,2026-04,Sunday
+2026-04-26,Groceries,240.0,Debit Card,D-Mart groceries,2026-04,Sunday
+2026-04-27,Transport,290.0,Cash,Petrol,2026-04,Monday
+2026-04-27,Health,790.0,UPI,Pharmacy,2026-04,Monday
+2026-04-28,Groceries,750.0,Debit Card,Big Bazaar,2026-04,Tuesday
+2026-04-28,Food & Dining,355.0,Cash,Restaurant lunch,2026-04,Tuesday
+2026-04-29,Food & Dining,110.0,UPI,Cafe coffee,2026-04,Wednesday
+2026-04-29,Transport,165.0,UPI,Ola cab,2026-04,Wednesday
+2026-04-29,Transport,145.0,Cash,Petrol,2026-04,Wednesday
+2026-04-30,Entertainment,115.0,Credit Card,Cinema ticket,2026-04,Thursday
+2026-04-30,Transport,30.0,Cash,Bus pass,2026-04,Thursday
+2026-05-01,Rent,6500.0,UPI,Hostel rent,2026-05,Friday
+2026-05-01,Entertainment,275.0,Credit Card,Cinema ticket,2026-05,Friday
+2026-05-02,Food & Dining,225.0,UPI,Swiggy order,2026-05,Saturday
+2026-05-02,Food & Dining,150.0,Credit Card,Zomato dinner,2026-05,Saturday
+2026-05-02,Food & Dining,295.0,Credit Card,Restaurant lunch,2026-05,Saturday
+2026-05-02,Shopping,435.0,UPI,Myntra clothes,2026-05,Saturday
+2026-05-02,Food & Dining,100.0,Cash,Swiggy order,2026-05,Saturday
+2026-05-03,Bills & Utilities,700.0,UPI,Electricity bill,2026-05,Sunday
+2026-05-03,Groceries,380.0,Debit Card,Big Bazaar,2026-05,Sunday
+2026-05-03,Food & Dining,325.0,UPI,Zomato dinner,2026-05,Sunday
+2026-05-04,Entertainment,305.0,UPI,Cinema ticket,2026-05,Monday
+2026-05-04,Food & Dining,305.0,Cash,Cafe coffee,2026-05,Monday
+2026-05-05,Entertainment,195.0,Credit Card,Cinema ticket,2026-05,Tuesday
+2026-05-05,Bills & Utilities,540.0,Net Banking,WiFi bill,2026-05,Tuesday
+2026-05-05,Food & Dining,230.0,Cash,Cafe coffee,2026-05,Tuesday
+2026-05-06,Health,670.0,UPI,Medicine,2026-05,Wednesday
+2026-05-07,Health,705.0,Cash,Medicine,2026-05,Thursday
+2026-05-07,Education,1030.0,Credit Card,Book purchase,2026-05,Thursday
+2026-05-07,Transport,60.0,Cash,Ola cab,2026-05,Thursday
+2026-05-07,Transport,335.0,Cash,Petrol,2026-05,Thursday
+2026-05-08,Food & Dining,170.0,Credit Card,Swiggy order,2026-05,Friday
+2026-05-09,Food & Dining,110.0,Credit Card,Cafe coffee,2026-05,Saturday
+2026-05-10,Transport,110.0,Cash,Ola cab,2026-05,Sunday
+2026-05-10,Entertainment,125.0,Credit Card,BookMyShow,2026-05,Sunday
+2026-05-10,Transport,325.0,UPI,Ola cab,2026-05,Sunday
+2026-05-12,Shopping,1240.0,Credit Card,Amazon order,2026-05,Tuesday
+2026-05-13,Transport,185.0,UPI,Uber ride,2026-05,Wednesday
+2026-05-14,Bills & Utilities,320.0,Net Banking,Electricity bill,2026-05,Thursday
+2026-05-16,Transport,290.0,Cash,Metro card,2026-05,Saturday
+2026-05-16,Transport,265.0,Cash,Ola cab,2026-05,Saturday
+2026-05-18,Food & Dining,250.0,Credit Card,Zomato dinner,2026-05,Monday
+2026-05-18,Food & Dining,225.0,UPI,Swiggy order,2026-05,Monday
+2026-05-18,Transport,95.0,UPI,Metro card,2026-05,Monday
+2026-05-18,Transport,220.0,Cash,Metro card,2026-05,Monday
+2026-05-18,Shopping,935.0,Net Banking,Amazon order,2026-05,Monday
+2026-05-19,Food & Dining,395.0,Credit Card,Restaurant lunch,2026-05,Tuesday
+2026-05-20,Transport,200.0,UPI,Bus pass,2026-05,Wednesday
+2026-05-21,Transport,220.0,Cash,Petrol,2026-05,Thursday
+2026-05-21,Education,300.0,Credit Card,Stationery,2026-05,Thursday
+2026-05-21,Food & Dining,220.0,Credit Card,Swiggy order,2026-05,Thursday
+2026-05-22,Food & Dining,210.0,UPI,Zomato dinner,2026-05,Friday
+2026-05-22,Food & Dining,345.0,Credit Card,Zomato dinner,2026-05,Friday
+2026-05-23,Food & Dining,95.0,UPI,Swiggy order,2026-05,Saturday
+2026-05-24,Food & Dining,255.0,Cash,Swiggy order,2026-05,Sunday
+2026-05-25,Groceries,610.0,UPI,Vegetables,2026-05,Monday
+2026-05-25,Food & Dining,160.0,Cash,Restaurant lunch,2026-05,Monday
+2026-05-25,Transport,110.0,UPI,Metro card,2026-05,Monday
+2026-05-26,Shopping,405.0,Credit Card,Amazon order,2026-05,Tuesday
+2026-05-27,Food & Dining,225.0,UPI,Restaurant lunch,2026-05,Wednesday
+2026-05-27,Entertainment,265.0,UPI,Cinema ticket,2026-05,Wednesday
+2026-05-28,Transport,70.0,Cash,Bus pass,2026-05,Thursday
+2026-05-29,Education,1190.0,Credit Card,Stationery,2026-05,Friday
+2026-05-29,Bills & Utilities,505.0,UPI,Mobile recharge,2026-05,Friday
+2026-05-29,Food & Dining,120.0,Credit Card,Restaurant lunch,2026-05,Friday
+2026-05-29,Groceries,505.0,UPI,D-Mart groceries,2026-05,Friday
+2026-05-30,Food & Dining,255.0,UPI,Zomato dinner,2026-05,Saturday
+2026-05-31,Groceries,250.0,Debit Card,Big Bazaar,2026-05,Sunday
+2026-05-31,Food & Dining,270.0,Cash,Cafe coffee,2026-05,Sunday
+2026-05-31,Groceries,460.0,UPI,Big Bazaar,2026-05,Sunday
+2026-05-31,Food & Dining,320.0,Cash,Cafe coffee,2026-05,Sunday
+2026-06-01,Health,710.0,UPI,Gym fee,2026-06,Monday
+2026-06-01,Bills & Utilities,625.0,Net Banking,Electricity bill,2026-06,Monday
+2026-06-01,Rent,6500.0,UPI,Hostel rent,2026-06,Monday
+2026-06-02,Transport,195.0,Cash,Bus pass,2026-06,Tuesday
+2026-06-02,Entertainment,120.0,UPI,BookMyShow,2026-06,Tuesday
+2026-06-02,Entertainment,245.0,UPI,BookMyShow,2026-06,Tuesday
+2026-06-02,Food & Dining,280.0,UPI,Swiggy order,2026-06,Tuesday
+2026-06-03,Food & Dining,165.0,UPI,Restaurant lunch,2026-06,Wednesday
+2026-06-03,Shopping,1810.0,Net Banking,Amazon order,2026-06,Wednesday
+2026-06-04,Food & Dining,85.0,Cash,Restaurant lunch,2026-06,Thursday
+2026-06-04,Transport,190.0,Cash,Bus pass,2026-06,Thursday
+2026-06-05,Groceries,600.0,Debit Card,D-Mart groceries,2026-06,Friday
+2026-06-06,Food & Dining,80.0,Cash,Zomato dinner,2026-06,Saturday
+2026-06-06,Food & Dining,165.0,UPI,Cafe coffee,2026-06,Saturday
+2026-06-06,Food & Dining,160.0,Credit Card,Restaurant lunch,2026-06,Saturday
+2026-06-07,Shopping,1355.0,Net Banking,Myntra clothes,2026-06,Sunday
+2026-06-08,Bills & Utilities,620.0,UPI,Mobile recharge,2026-06,Monday
+2026-06-08,Shopping,2055.0,Net Banking,Myntra clothes,2026-06,Monday
+2026-06-09,Food & Dining,140.0,Cash,No description,2026-06,Tuesday
+2026-06-11,Food & Dining,320.0,Cash,Restaurant lunch,2026-06,Thursday
+2026-06-11,Transport,30.0,UPI,Ola cab,2026-06,Thursday
+2026-06-11,Food & Dining,380.0,Credit Card,Zomato dinner,2026-06,Thursday
+2026-06-12,Bills & Utilities,590.0,UPI,Mobile recharge,2026-06,Friday
+2026-06-12,Food & Dining,185.0,UPI,Restaurant lunch,2026-06,Friday
+2026-06-13,Education,1045.0,Credit Card,Stationery,2026-06,Saturday
+2026-06-13,Groceries,360.0,UPI,Vegetables,2026-06,Saturday
+2026-06-14,Transport,240.0,Cash,Bus pass,2026-06,Sunday
+2026-06-14,Transport,135.0,Cash,Ola cab,2026-06,Sunday
+2026-06-15,Food & Dining,350.0,Cash,Cafe coffee,2026-06,Monday
+2026-06-15,Food & Dining,250.0,Credit Card,Cafe coffee,2026-06,Monday
+2026-06-15,Transport,310.0,Cash,Bus pass,2026-06,Monday
+2026-06-15,Food & Dining,375.0,UPI,Zomato dinner,2026-06,Monday
+2026-06-16,Groceries,625.0,Debit Card,Supermart,2026-06,Tuesday
+2026-06-16,Health,310.0,Cash,Medicine,2026-06,Tuesday
+2026-06-18,Food & Dining,310.0,Cash,Swiggy order,2026-06,Thursday
+2026-06-19,Education,855.0,UPI,Udemy course,2026-06,Friday
+2026-06-20,Transport,165.0,Cash,Uber ride,2026-06,Saturday
+2026-06-20,Food & Dining,210.0,Credit Card,Restaurant lunch,2026-06,Saturday
+2026-06-21,Entertainment,405.0,Credit Card,Cinema ticket,2026-06,Sunday
+2026-06-22,Transport,120.0,Cash,Petrol,2026-06,Monday
+2026-06-23,Food & Dining,95.0,Cash,Zomato dinner,2026-06,Tuesday
+2026-06-23,Food & Dining,275.0,UPI,Cafe coffee,2026-06,Tuesday
+2026-06-23,Transport,340.0,Cash,Petrol,2026-06,Tuesday
+2026-06-24,Transport,175.0,Cash,Uber ride,2026-06,Wednesday
+2026-06-24,Education,1045.0,Credit Card,Udemy course,2026-06,Wednesday
+2026-06-25,Groceries,615.0,Debit Card,Big Bazaar,2026-06,Thursday
+2026-06-26,Food & Dining,205.0,Cash,Cafe coffee,2026-06,Friday
+2026-06-26,Food & Dining,200.0,Cash,Zomato dinner,2026-06,Friday
+2026-06-26,Food & Dining,355.0,Cash,Cafe coffee,2026-06,Friday
+2026-06-28,Food & Dining,300.0,Cash,Zomato dinner,2026-06,Sunday
+2026-06-28,Food & Dining,280.0,Cash,Zomato dinner,2026-06,Sunday
+2026-06-28,Bills & Utilities,280.0,UPI,WiFi bill,2026-06,Sunday
+2026-06-28,Food & Dining,175.0,Cash,Swiggy order,2026-06,Sunday
+2026-06-30,Transport,80.0,UPI,Bus pass,2026-06,Tuesday
+2026-06-30,Groceries,720.0,Debit Card,Supermart,2026-06,Tuesday

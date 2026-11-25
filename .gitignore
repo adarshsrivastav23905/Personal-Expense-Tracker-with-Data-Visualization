@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+data/expenses.db
+.streamlit/secrets.toml

@@ -1,0 +1,42 @@
+[theme]
+base = "dark"
+font = "sans-serif"
+baseFontSize = 17
+baseFontWeight = 400
+headingFontSizes = ["38px", "30px", "24px", "20px", "18px", "16px"]
+headingFontWeights = [650, 600, 600, 550, 500, 500]
+linkUnderline = false
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "medium"
+buttonRadius = "medium"
+
+[theme.light]
+primaryColor = "#087F5B"
+backgroundColor = "#F5F7FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#152238"
+borderColor = "#E1E7EF"
+greenColor = "#12805C"
+redColor = "#C2414B"
+orangeColor = "#B66A13"
+chartCategoricalColors = ["#087F5B", "#4F7CAC", "#C58B39", "#7868A6", "#C35B65", "#4F8B83"]
+
+[theme.dark]
+primaryColor = "#43D9A3"
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#111B2B"
+textColor = "#E8EEF7"
+borderColor = "#263449"
+greenColor = "#43D9A3"
+redColor = "#FF737D"
+orangeColor = "#F2B76B"
+chartCategoricalColors = ["#43D9A3", "#78A9E8", "#F2B76B", "#B39DDB", "#FF737D", "#71C7B5"]
+
+[theme.light.sidebar]
+backgroundColor = "#EEF2F7"
+secondaryBackgroundColor = "#FFFFFF"
+
+[theme.dark.sidebar]
+backgroundColor = "#0E1726"
+secondaryBackgroundColor = "#111B2B"
